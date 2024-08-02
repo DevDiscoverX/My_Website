@@ -7,3 +7,138 @@
   src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-Bold.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
+
+@font-face {
+  font-family: 'JetBrainsMono-BoldItalic.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-BoldItalic.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-ExtraBold.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-ExtraBold.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-ExtraBoldItalic.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-ExtraBoldItalic.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-ExtraLight.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-ExtraLight.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-ExtraLightItalic.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-ExtraLightItalic.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-Italic.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-Italic.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-Light.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-Light.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-LightItalic.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-LightItalic.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-Medium.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-Medium.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-MediumItalic.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-MediumItalic.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-Regular.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-Regular.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-SemiBold.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-SemiBold.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-SemiBoldItalic.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-SemiBoldItalic.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-Thin.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-Thin.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'JetBrainsMono-ThinItalic.woff2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/DevDiscoverX/My_Website/blob/main/webfonts/JetBrainsMono-ThinItalic.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
